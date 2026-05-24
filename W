@@ -1,0 +1,7 @@
+echo "# Upload-Web-of-Wordpress." >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AlexGamer35/Upload-Web-of-Wordpress..git
+git push -u origin main
